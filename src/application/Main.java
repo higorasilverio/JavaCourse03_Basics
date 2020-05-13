@@ -8,9 +8,6 @@ public class Main {
 		
 		Scanner scanner = new Scanner(System.in);
 		
-		System.out.println("*** Calculating the difference between two sums (integers only) ***");
-		System.out.println("This program will calculate the difference between two sums as decribed below: ");
-		System.out.println("Difference = A + B - C + D");
 		System.out.print("Enter the A value: ");
 		int A = scanner.nextInt();
 		System.out.print("Enter the B value: ");
